@@ -13,14 +13,8 @@
 	text-align: center;	
 }
 
-.search{
-	text-align: center;
-	color:  #FD7700;
-}
-
-.search-input{
-	text-align: center;
-	margin: 0.5em;
+.searchTittle{
+	color: #FD7700;
 }
 
 .food{
@@ -44,12 +38,11 @@
 }
 
 img.zoom {
-    width: 350px;
-    height: 200px;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    -ms-transition: all .2s ease-in-out;
+   
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
 }
  /*hacer zoom*/
 .transition {
